@@ -431,3 +431,4 @@ export const BEYOND_ACADEMICS = [
     description: "Intensive summer and winter workshops combining fun experiments, leadership games, and special guest interactions.",
   },
 ];
+

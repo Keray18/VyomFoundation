@@ -27,3 +27,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: route === "" ? 1.0 : route.startsWith("/our-work") || route.startsWith("/get-involved") ? 0.9 : 0.8,
   }));
 }
+
